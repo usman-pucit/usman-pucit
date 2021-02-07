@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadusman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-usman-852413ba/)](https://www.linkedin.com/in/muhammad-usman-852413ba/)
 [![Gmail Badge](https://img.shields.io/badge/-usmans1020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:usmans1020@gmail.com)](mailto:usmans1020@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@usmanpucit-blue?style=flat-square&logo=Twitter&logoColor=white&bg_color=00acee&link=https://twitter.com/usmanpucit/)](https://twitter.com/usmanpucit/)
 
 I am **Usman** here, an iOS Engineer love you learn and share new things in iOS
 
